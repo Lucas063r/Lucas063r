@@ -23,4 +23,4 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucas063r&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Minhas Contribuções
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas063r&repo=projeto-landing-page&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lucas063r/projeto-landing-page)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas063r&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas063r&repo=Lista_para_casamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/digitalinnovationone/dio-lab-open-source](https://github.com/Lucas063r/Lista_para_casamento))
