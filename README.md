@@ -1,5 +1,13 @@
 # Lucas Alves
-  Hello! I'm Lucas Alves! I'm a full stack developer
+  Sou um desenvolvedor Full Stack, com experiência prática em automação de processos, desenvolvimento web com
+Django e FastAPI, e ciência de dados aplicada. Tenho domı́nio de ferramentas como Python, Pandas, NumPy,
+Selenium, BeautifulSoup e Power BI, além de familiaridade com bancos de dados relacionais (MySQL e SQLite) e
+versionamento com Git. Já desenvolvi bots, APIs, rotinas de raspagem de dados e sistemas web em projetos
+pessoais e acadêmicos. Possuo também habilidade em visualização de dados, manipulação de planilhas, e
+integração com serviços como WhatsApp, Instagram e e-mails automáticos. Meu perϐil é autodidata, proativo, com
+boa comunicação e facilidade para trabalhar em equipe. Busco uma oportunidade onde possa aplicar minhas
+habilidades técnicas e comportamentais para resolver problemas reais, crescer proϐissionalmente e contribuir com
+inovação e resultados desde o inı́cio.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alves-000aa4258/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@lordsuprem./)
