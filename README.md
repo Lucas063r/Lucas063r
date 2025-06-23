@@ -82,6 +82,26 @@ Universidade Anhanguera Educacional — Conclusão prevista: Jul/2027
 *Idiomas:* Português (Nativo) • Inglês (Básico)
 
 ---
+## 💼 Experiência Profissional
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>Becomex</h4>
+      <p>
+        **Projeto BI Agro** – Transformação de dados públicos do IBGE/SIDRA em insights para o setor agro.  
+        Pipeline ETL genérico (coleta via Playwright, tratamento em Pandas e análises em Power BI).
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h4>SuperStore</h4>
+      <p>
+        **PA Bond – Análise de Dados** (SuperStore) – Implementação de Cohort e RFM,  
+        análise Top 10 de produtos e lojas, performance regional e recomendações estratégicas.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projetos Pessoais
 
