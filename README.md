@@ -79,7 +79,7 @@ Universidade Anhanguera Educacional — Conclusão prevista: Jul/2027
   <img alt="Jupyter"     src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img alt="Colab"       src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 </p>
-*Idiomas:* Português (Nativo) • Inglês (Básico) :contentReference[oaicite:3]{index=3}
+*Idiomas:* Português (Nativo) • Inglês (Básico)
 
 ---
 
