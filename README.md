@@ -57,7 +57,7 @@ Perfil autodidata, proativo, com boa comunicação e facilidade para trabalho em
 
 **Bacharelado em Ciência da Computação**  
 Universidade Anhanguera Educacional — Conclusão prevista: Jul/2027  
-- Lógica de programação, estruturas de dados, bancos relacionais, engenharia de software e metodologias ágeis. :contentReference[oaicite:1]{index=1}
+- Lógica de programação, estruturas de dados, bancos relacionais, engenharia de software e metodologias ágeis.
 
 ---
 
@@ -70,7 +70,7 @@ Universidade Anhanguera Educacional — Conclusão prevista: Jul/2027
 - **Python 3 – Do Básico ao Avançado** (Luiz Otávio Miranda • Udemy)  
   Sintaxe, estruturas de controle, funções, POO, módulos, exceções, regex e boas práticas.  
 - **Ciência de Dados** (Escola DNC)  
-  Pandas, NumPy, Matplotlib, Seaborn, preparação de dados e introdução a Machine Learning. :contentReference[oaicite:2]{index=2}
+  Pandas, NumPy, Matplotlib, Seaborn, preparação de dados e introdução a Machine Learning. 
 
 ---
 
