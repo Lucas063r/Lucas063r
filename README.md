@@ -3,7 +3,7 @@
 <!-- ============================
      Cabeçalho e Badges Sociais
 =============================== -->
-<h1 align="center">Olá, eu sou <a href="https://github.com/Lucas063r">Lucas Alves de Souza</a> 👋</h1>
+<h1 align="center">Olá, sou <a href="https://github.com/Lucas063r">Lucas Alves de Souza</a> 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-alves-000aa4258">
