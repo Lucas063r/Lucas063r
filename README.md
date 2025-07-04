@@ -27,33 +27,24 @@ Domínio em Python, Pandas, NumPy, Selenium, BeautifulSoup e Power BI, além de 
 Perfil autodidata, proativo, com boa comunicação e facilidade para trabalho em equipe.  
 
 ---
-
 ## 💼 Experiência
 
-**Suporte de TI – Câmara Municipal de Miranorte (ago/2023 – ago/2024)
-• Atendimento de chamados N1
-• Manutenção de computadores e rede local
-• Apoio ao usuário em sistemas e softwares corporativos
-• Documentação de atendimentos e procedimentos técnicos
+**Suporte de TI – Câmara Municipal de Miranorte**  
+*ago/2023 – ago/2024*  
+- Atendimento de chamados N1.  
+- Manutenção de computadores e rede local.  
+- Apoio ao usuário em sistemas e softwares corporativos.  
+- Documentação de atendimentos e procedimentos técnicos.
 
-- <table>
-  <tr>
-    <td align="center" width="50%">
-      <h4>Becomex</h4>
-      <p>
-        **Projeto BI Agro** – Transformação de dados públicos do IBGE/SIDRA em insights para o setor agro.  
-        Pipeline ETL genérico (coleta via Playwright, tratamento em Pandas e análises em Power BI).
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h4>SuperStore</h4>
-      <p>
-        **PA Bond – Análise de Dados** (SuperStore) – Implementação de Cohort e RFM,  
-        análise Top 10 de produtos e lojas, performance regional e recomendações estratégicas.
-      </p>
-    </td>
-  </tr>
-</table>
+## 🚀 Projetos de Destaque
+
+### Projeto BI Agro (Becomex)  
+Transformação de dados públicos do IBGE/SIDRA em insights para o setor agro.  
+- **Pipeline ETL** genérico: coleta via Playwright, tratamento em Pandas e análises em Power BI.
+
+### PA Bond – Análise de Dados (SuperStore)  
+Implementação de análises de cohort e RFM, além de performance de vendas e recomendações estratégicas.  
+- Dashboard com Top 10 produtos e lojas e análise regional. 
 
 ---
 
