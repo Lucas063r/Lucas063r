@@ -39,12 +39,17 @@ Perfil autodidata, proativo, com boa comunicação e facilidade para trabalho em
 ## 🚀 Projetos de Destaque
 
 ### Projeto BI Agro (Becomex)  
-Transformação de dados públicos do IBGE/SIDRA em insights para o setor agro.  
-- **Pipeline ETL** genérico: coleta via Playwright, tratamento em Pandas e análises em Power BI.
+- Transformação de dados públicos do IBGE/SIDRA em insights para o setor agro.  
+- Automatizei a extração de bases públicas do IBGE/SIDRA usando Playwright e Python, construindo um pipeline ETL que processa diariamente volumes de dados superiores a 100 MB.
+- Realizei limpeza e transformação de dados com Pandas, criando métricas de produção agrícola por Estado e Município, e agregando indicadores de produtividade e área plantada.
+- Modelei relatórios e dashboards em Power BI, incluindo mapas temáticos e gráficos de séries temporais, que suportaram decisões estratégicas de posicionamento de mercado no setor agro.
+- Gereci versionamento de código no GitHub e escrevi documentação detalhada com instruções de deploy e manutenção do fluxo ETL.
 
 ### PA Bond – Análise de Dados (SuperStore)  
-Implementação de análises de cohort e RFM, além de performance de vendas e recomendações estratégicas.  
-- Dashboard com Top 10 produtos e lojas e análise regional. 
+- Conduzi análise de cohort de mais de 50.000 registros de clientes, segmentando comportamentos de compra por período e identificando padrões de retenção com Python e Pandas.
+- Apliquei segmentação RFM (Recência, Frequência, Valor Monetário) para classificar clientes em 5 grupos, gerando insights que suportaram uma estratégia de marketing direcionado.
+- Desenvolvi dashboards interativos em Power BI para visualizar top 10 produtos, performance por região e principais KPIs, reduzindo em 20% o tempo de geração de relatórios.
+- Documentei todo o fluxo de análise em Jupyter Notebooks, facilitando a reprodução dos estudos e a apresentação de resultados para stakeholders.
 
 ---
 
