@@ -21,10 +21,10 @@
 
 ## 📖 Sobre Mim
 
-Sou **Full Stack Developer** com experiência prática em automação de processos,  
-desenvolvimento web com **Django** e **FastAPI**, e ciência de dados aplicada.  
-Domínio em Python, Pandas, NumPy, Selenium, BeautifulSoup e Power BI, além de bancos relacionais (MySQL, SQLite) e Git.  
-Perfil autodidata, proativo, com boa comunicação e facilidade para trabalho em equipe.  
+Analista | Cientista de Dados e Desenvolvedor Back-end Júnior com paixão por resolver desafios através da análise profunda de dados, automação inteligente e 
+desenvolvimento de soluções robustas. Tenho interesse em atuar em equipes inovadoras, utilizando minha experiência em ciência de dados e programação back-end 
+para gerar insights estratégicos, otimizar processos e impulsionar o desempenho dos negócios.
+Soft Skills: Sou autodidata, proativo, possuo excelente comunicação, facilidade no trabalho em equipe e forte orientação para resultados e inovação.  
 
 ---
 ## 💼 Experiência
